@@ -9,16 +9,16 @@ google-search==1.0.2
 GoogleScraper==0.2.1
 gTTS==2.0.1
 gTTS-token==1.1.1
-hmmlearn==0.2.0
-html5lib==1.0.1
-httplib2==0.9.1
-jsonschema==2.6.0
 matplotlib==2.2.3
 multidict==4.3.1
 nbconvert==5.3.1
 nbformat==4.4.0
 nltk==3.3
 numpy==1.15.0
+hmmlearn==0.2.0
+html5lib==1.0.1
+httplib2==0.9.1
+jsonschema==2.6.0
 Pillow==3.1.2
 PyAudio==0.2.11
 -e git+https://github.com/tyiannak/pyAudioAnalysis.git@dbe9ab72eca3c8c22918316839ada8c7eee1a35d#egg=pyAudioAnalysis
