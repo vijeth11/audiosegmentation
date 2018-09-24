@@ -13,7 +13,7 @@ cryptography==1.2.3
 cssselect==1.0.3
 cycler==0.10.0
 decorator==4.3.0
-defer==1.0.6
+defer
 Django==2.1
 django-mongodb-engine==0.6.0
 djangotoolbox==1.8.0
