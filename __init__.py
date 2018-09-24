@@ -25,3 +25,6 @@ def upload_file():
     f.save("mysite/"+secure_filename(f.filename))
     #traindata(segment())
     return "file uploaded sucessfully"
+
+if __name__ == '__main__':
+   app.run()
