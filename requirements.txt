@@ -81,7 +81,7 @@ PyMySQL==0.9.2
 pyparsing==2.0.3
 pyspeech==0.0.0
 python-dateutil==2.7.3
-python-debian==0.1.27
+python-debian
 python-magic==0.4.15
 python-systemd==231
 pyttsx==1.1
