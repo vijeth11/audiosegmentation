@@ -105,7 +105,6 @@ testpath==0.3.1
 tornado==5.1
 traitlets==4.3.2
 urllib3==1.13.1
-usb-creator==0.3.0
 virtualenv==16.0.0
 wcwidth==0.1.7
 webencodings==0.5.1
