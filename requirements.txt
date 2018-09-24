@@ -1,5 +1,4 @@
 aiohttp
-apturl
 async-timeout==3.0.0
 attrs==18.1.0
 backcall==0.1.0
@@ -139,3 +138,4 @@ xdiagnose==3.8.4.1
 xkit==0.0.0
 XlsxWriter==0.7.3
 yarl==1.2.6
+
