@@ -17,7 +17,7 @@ nltk==3.3
 numpy==1.15.0
 hmmlearn==0.2.0
 html5lib==1.0.1
-httplib2==0.9.1
+httplib2==0.18.0
 jsonschema==2.6.0
 Pillow==3.1.2
 -e git+https://github.com/tyiannak/pyAudioAnalysis.git@dbe9ab72eca3c8c22918316839ada8c7eee1a35d#egg=pyAudioAnalysis
