@@ -29,7 +29,7 @@ simplejson==3.16.0
 sklearn==0.0
 SpeechRecognition==3.8.1
 SQLAlchemy==1.2.10
-urllib3==1.13.1
+urllib3==1.26.5
 virtualenv==16.0.0
 wcwidth==0.1.7
 webencodings==0.5.1
