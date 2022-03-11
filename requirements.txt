@@ -19,7 +19,7 @@ hmmlearn==0.2.0
 html5lib==1.0.1
 httplib2==0.9.1
 jsonschema==2.6.0
-Pillow==3.1.2
+Pillow==9.0.1
 -e git+https://github.com/tyiannak/pyAudioAnalysis.git@dbe9ab72eca3c8c22918316839ada8c7eee1a35d#egg=pyAudioAnalysis
 requests==2.9.1
 scikit-learn==0.19.2
